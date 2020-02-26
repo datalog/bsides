@@ -1,1 +1,1 @@
-# BSides
+![BSides](/logos/bsides-logo.svg)
